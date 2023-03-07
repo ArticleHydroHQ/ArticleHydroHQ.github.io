@@ -14,7 +14,7 @@ Turn on the server join as an OP then run `/timings on`
 then wait or play, about 10-15 minutes then run `/timings paste` and open the link in your browser or share it with the support that has told you to make this
 
 ## How to get a spark report
-[Spark](https://spark.lucko.me) is a different system than timings, so the commands are different, you can use `/spark profiler --timeout 60` which will stop after 1 minute.
+[Spark](https://spark.lucko.me) is a different system than timings, so the commands are different, you can run `/spark profiler --timeout 60` which will stop after 1 minute.
 
 Alternatively, you can run `/spark profiler start` and wait however long you wait as long as there are no restarts.
 When you want it to stop run `/spark profiler stop`
