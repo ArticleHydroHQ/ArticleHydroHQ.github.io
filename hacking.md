@@ -16,4 +16,4 @@ For big and small Minecraft servers, hacking is a common problem.
 
 ## Ways of preventing account stealing
 - Disable cracked (preferred)
-- A login plugin, not recommended because some contain security issues, and offline mode has other issues linked [here](/noofflinemode.md)
+- A login plugin, not recommended because some contain security issues, and offline mode has other issues linked [here](/cracked.md)
