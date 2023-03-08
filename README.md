@@ -1,3 +1,4 @@
 # ArticleHydroHQ.github.io
-the website for the articles
-join our [discord](https://discord.gg/zUu492YQk3) to help us and get involved
+A website for articles.
+
+Join our [discord server](https://discord.gg/zUu492YQk3) to help us and get involved

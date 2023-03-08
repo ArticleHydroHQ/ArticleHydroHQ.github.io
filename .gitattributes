@@ -1,0 +1,2 @@
+#Make files LF instead of CRLF
+git config core.autocrlf input

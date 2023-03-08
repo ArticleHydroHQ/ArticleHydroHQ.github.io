@@ -4,7 +4,7 @@ For big and small Minecraft servers, hacking is a common problem.
 ## Common ways of hacking
 - X-ray
 - Using other people's accounts (only for cracked servers)
-- Using hack clients 
+- Hack clients 
 
 ## Ways of preventing X-ray 
 - Use anti-x-ray such as paper's anti-xray [guide to set it up](https://docs.papermc.io/paper/anti-xray)
